@@ -1,6 +1,7 @@
 # python-week
 Workshop que visa uma introdução a linguagem Python e aplicação de conceitos básicos de programação.
-
+    
+    live no youtube
 
     Utilizando Gitpod e Googleclass
     https://gitpod.io/

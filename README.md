@@ -1,5 +1,8 @@
 # python-week
 Workshop que visa uma introdução a linguagem Python e aplicação de conceitos básicos de programação.
+
+    Requisitos para participar preencher o formulario de participação
+    Ter conta no github e email valido
     
     live no youtube
     landing page para do workshop.

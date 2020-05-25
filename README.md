@@ -2,6 +2,8 @@
 Workshop que visa uma introdução a linguagem Python e aplicação de conceitos básicos de programação.
     
     live no youtube
+    landing page para do workshop.
+    certificado com 70% mais 70% test
 
     Utilizando Gitpod e Googleclass
     https://gitpod.io/

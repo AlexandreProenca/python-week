@@ -1,4 +1,4 @@
-## Python Week  15/06 - 19/06
+## Python Week  15/06/2020 - 19/06/2020
 Workshop que visa uma introdução a linguagem Python e aplicação de conceitos básicos de programação.
 
 Requisitos para participar preencher o formulario de participação

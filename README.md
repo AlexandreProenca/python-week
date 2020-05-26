@@ -5,4 +5,4 @@ Requisitos para participar preencher o formulario de participação
 * Ter uma conta no GitHub
 * Ter uma conta no GitPod
 
-Acesso ao workshop ---> [gitpod](https://gitpod.io/#https://github.com/AlexandreProenca/python-week)
+[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/AlexandreProenca/python-week)
